@@ -1,16 +1,20 @@
-# Weather-Application
-Designed a weather app which fetches the user location and shows the weather results for the location with 85% accuracy .
+# 🌦️ Weather Application
 
-Features:
+A responsive weather app that automatically detects user location and displays accurate weather forecasts with 85% accuracy using the OpenWeatherMap API.
 
-Real-time weather data including temperature, humidity, and wind speed
-Dynamic weather icons that change based on current conditions,
-Responsive design that works on mobile and desktop devices,
-Clean and modern UI with gradient background,
-Error handling for invalid city names
+## ✨ Features
+- **Real-time weather data** (temperature, humidity, wind speed)
+- **Automatic location detection** using geolocation API
+- **Dynamic weather icons** that change based on conditions
+- **Responsive design** for mobile and desktop
+- **Modern UI** with gradient background
+- **Error handling** for invalid city searches
 
-Technologies Used:
-HTML,
-CSS, 
-JavaScript, 
-OpenWeatherMap API
+## 🛠️ Technologies Used
+### Frontend
+- HTML
+- CSS
+- JavaScript 
+
+### APIs
+- OpenWeatherMap API
